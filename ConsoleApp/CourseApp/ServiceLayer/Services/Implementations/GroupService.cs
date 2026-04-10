@@ -11,7 +11,7 @@ namespace ServiceLayer.Services.Implementations
 {
     public class GroupService : IGroupService
     {
-        private GroupRepository _groupRepository;
+        private GroupRepository _groupRepository=new();
         private int _count=1;
         public CourseGroup Create(CourseGroup group)
         {

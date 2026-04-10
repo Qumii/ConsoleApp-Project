@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\domainlayer\\entities\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\servicelayer\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\servicelayer\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\servicelayer\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\repository\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\repository\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|solutionrelative:repository\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\repository\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\domainlayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\domainlayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\apa202\\consoleapp\\courseapp\\domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\domainlayer\\entities\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\servicelayer\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\classtime.pc_6_213_18\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,67 +58,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\ConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T11:53:20.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
               "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T11:40:56.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IGroupService.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
-              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:30:25.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:16:04.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T11:16:04.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Repository\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
               "RelativeToolTip": "Repository\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +113,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\Implementations\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
               "RelativeToolTip": "Repository\\Repositories\\Implementations\\StudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "GroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\Implementations\\GroupRepository.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
               "RelativeToolTip": "Repository\\Repositories\\Implementations\\GroupRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,37 +152,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "RepositoryLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\RepositoryLayer.csproj",
               "RelativeDocumentMoniker": "Repository\\RepositoryLayer.csproj",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\Repository\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\RepositoryLayer.csproj",
               "RelativeToolTip": "Repository\\RepositoryLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-10T10:43:42.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T10:43:42.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
               "RelativeToolTip": "DomainLayer\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T10:32:01.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CourseGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\CourseGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\CourseGroup.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Entities\\CourseGroup.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\CourseGroup.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\CourseGroup.cs",
               "RelativeToolTip": "DomainLayer\\Entities\\CourseGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,16 +190,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
               "RelativeToolTip": "DomainLayer\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T10:33:31.394Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:30:25.785Z"
             }
           ]
         }

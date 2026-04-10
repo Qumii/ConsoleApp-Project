@@ -1,0 +1,16 @@
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\bin\Debug\net8.0\RepositoryLayer.deps.json
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\bin\Debug\net8.0\RepositoryLayer.dll
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\bin\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.sourcelink.json
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\Reposito.A0A61804.Up2Date
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.dll
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\refint\RepositoryLayer.dll
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\Repository\obj\Debug\net8.0\ref\RepositoryLayer.dll

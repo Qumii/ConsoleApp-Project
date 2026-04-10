@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\DomainLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\DomainLayer.csproj",
+      "projectPath": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\Classtime.PC_6_213_18\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\APA202\\ConsoleApp\\CourseApp\\DomainLayer\\obj\\",
+      "outputPath": "C:\\Users\\Classtime.PC_6_213_18\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
