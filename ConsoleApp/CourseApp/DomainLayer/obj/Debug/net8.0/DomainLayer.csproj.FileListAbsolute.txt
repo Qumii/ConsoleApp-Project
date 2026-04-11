@@ -10,3 +10,15 @@ C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\D
 C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 C:\Users\Classtime.PC_6_213_18\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\ulvee\Desktop\ConsoleApp-Project\ConsoleApp\CourseApp\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

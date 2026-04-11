@@ -12,6 +12,7 @@ namespace ConsoleApp.Helpers
         {
             Console.ForegroundColor = color;
             Console.WriteLine(text);
+            Console.ResetColor();
         }
     }
 }
