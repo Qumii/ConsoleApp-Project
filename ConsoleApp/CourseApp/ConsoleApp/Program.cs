@@ -23,22 +23,22 @@ namespace ConsoleApp
                     switch (selectNumberOption)
                     {
                         case 1:
-                            _groupController.Create();
+                            _groupController.CreateGroup();
                             break;
                         case 2:
-                            _groupController.Update();
+                            _groupController.UpdateGroup();
                             break;
                         case 3:
-                            _groupController.Delete();
+                            _groupController.DeleteGroup();
                             break;
                         case 4:
-                            _groupController.GetById();
+                            _groupController.GetGroupById();
                             break;
                         case 7:
-                            _groupController.GetAll();
+                            _groupController.GetAllGroups();
                             break;
                         case 14:
-                            _groupController.Search();
+                            _groupController.SearchByGroupName();
                             break;
                     }
                 }

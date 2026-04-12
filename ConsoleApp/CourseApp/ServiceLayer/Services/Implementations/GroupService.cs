@@ -42,14 +42,31 @@ namespace ServiceLayer.Services.Implementations
             return _groupRepository.GetAll();
         }
 
+
+
         public CourseGroup Update(int id, CourseGroup group)
         {
-            throw new NotImplementedException();
+            CourseGroup dbGroup = GetById(id);
+            if (dbGroup is null) return null;
+
+            group.Id = id;
+
+            _groupRepository.Update(group);
+            return GetById(id);
         }
+
+
+
+
 
         public CourseGroup Get(int id)
         {
             throw new NotImplementedException();
+        }
+
+        public List<CourseGroup> SearchByGroupName(string name )
+        {
+            return _groupRepository.GetAll(g => g.Name == name);
         }
     }
 }

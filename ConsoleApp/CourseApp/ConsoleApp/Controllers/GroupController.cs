@@ -13,11 +13,11 @@ namespace ConsoleApp.Controllers
     public class GroupController
     {
         GroupService _groupService = new();
-        public void Create()
+        public void CreateGroup()
         {
             Helper.PrintConsole(ConsoleColor.Cyan, "Add group name!");
 
-            string groupName = Console.ReadLine().ToUpper();
+            string groupName = Console.ReadLine().ToUpper().Trim();
 
             Helper.PrintConsole(ConsoleColor.Cyan, "Add group teacher!");
 
@@ -47,7 +47,7 @@ namespace ConsoleApp.Controllers
             }
         }
 
-        public void GetById()
+        public void GetGroupById()
         {
         GroupId: Helper.PrintConsole(ConsoleColor.Cyan, "Add group Id!");
             string groupId = Console.ReadLine();
@@ -56,10 +56,10 @@ namespace ConsoleApp.Controllers
             if (isGroupId)
             {
                 CourseGroup result = _groupService.GetById(id);
-                if (result != null) 
+                if (result != null)
                 {
                     Helper.PrintConsole(ConsoleColor.Green, $"Id: {result.Id}, Name: {result.Name}, Teacher: {result.Teacher}, Room: {result.Room}");
-                    
+
                 }
                 else
                 {
@@ -74,7 +74,7 @@ namespace ConsoleApp.Controllers
             }
         }
 
-        public void GetAll()
+        public void GetAllGroups()
         {
             List<CourseGroup> groups = _groupService.GetAll();
             if (groups.Count != 0)
@@ -91,16 +91,16 @@ namespace ConsoleApp.Controllers
             }
         }
 
-        public void Delete()
+        public void DeleteGroup()
         {
         GroupId: Helper.PrintConsole(ConsoleColor.Cyan, "Add group Id!");
             string groupId = Console.ReadLine();
             int id;
             bool isGroupId = int.TryParse(groupId, out id);
             if (isGroupId)
-            {  
+            {
                 CourseGroup group = _groupService.GetById(id);
-                
+
                 if (group != null)
                 {
                     _groupService.Delete(id);
@@ -119,11 +119,108 @@ namespace ConsoleApp.Controllers
             }
         }
 
-        public void Search()
+        public void SearchByGroupName()
+        {
+            Helper.PrintConsole(ConsoleColor.Cyan, "Add group search text");
+            string searchGroupName = Console.ReadLine().ToUpper().Trim();
+            List<CourseGroup> groups = _groupService.SearchByGroupName(searchGroupName);
+
+            if (groups.Count != 0)
+            {
+                foreach (var result in groups)
+                {
+                    Helper.PrintConsole(ConsoleColor.Green, $"Id: {result.Id}, Name: {result.Name}, Teacher: {result.Teacher}, Room: {result.Room}");
+                }
+            }
+            else
+            {
+                Helper.PrintConsole(ConsoleColor.Red, "Group not found!");
+
+            }
+        }
+        public void UpdateGroup()
         {
 
+        GroupId: Helper.PrintConsole(ConsoleColor.Cyan, "Add group Id:");
+
+            string groupId = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(groupId))
+            {
+                Helper.PrintConsole(ConsoleColor.Red, "Updaye operation canceled!");
+                goto GroupId;
+            }
+
+            int id;
+            bool isGroupId = int.TryParse(groupId, out id);
+            if (isGroupId)
+            {
+                var findGroup = _groupService.GetById(id);
+
+                if (findGroup != null)
+                {
+                    Helper.PrintConsole(ConsoleColor.Cyan, $"Current name: {findGroup.Name}. Add group new name:");
+
+                    string groupNewName = Console.ReadLine().ToUpper();
+
+                    Helper.PrintConsole(ConsoleColor.Cyan, $"Current teacher: {findGroup.Teacher}. Add group new teacher:");
+                    string groupNewTeacher = Console.ReadLine();
+                    groupNewTeacher = char.ToUpper(groupNewTeacher[0]) + groupNewTeacher.Substring(1).ToLower();
+
+                Room: Helper.PrintConsole(ConsoleColor.Cyan, $"Current room: {findGroup.Room}. Add group new room:");
+                    string newRoom = Console.ReadLine();
+                    int room = findGroup.Room;
+
+                    if (!string.IsNullOrWhiteSpace(newRoom))
+                    {
+                        bool isRoom = int.TryParse(newRoom, out room);
+                        if (!isRoom)
+                        {
+                            Helper.PrintConsole(ConsoleColor.Red, "Add correct room type!");
+                            goto Room;
+                        }
+                    }
+
+                    if (string.IsNullOrWhiteSpace(groupNewName))
+                    {
+                        groupNewName = findGroup.Name;
+                    }
+
+                    CourseGroup group =new CourseGroup { Name = groupNewName, Teacher = groupNewTeacher, Room = room };
+
+                    var updateGroup = _groupService.Update(id, group);
+
+                    if (updateGroup == null)
+                    {
+                        Helper.PrintConsole(ConsoleColor.Red, "Group not updated, please try again!");
+                        goto GroupId;
+                    }
+                    else
+                    {
+                        Helper.PrintConsole(ConsoleColor.Green, $"Group Id: {updateGroup.Id}, Group Name: {updateGroup.Name}, Group Teacher: {updateGroup.Teacher}, Group Room: {updateGroup.Room}");
+                       
+                    }
+
+
+                }
+                else
+                {
+                    Helper.PrintConsole(ConsoleColor.Red, "Group not found!");
+                    goto GroupId;
+                }
+
+
+            }
+            else
+            {
+                Helper.PrintConsole(ConsoleColor.Red, "Add correct GroupId type!");
+                goto GroupId;
+            }
+
+
         }
-        public void Update()
+
+        public void CreateBook()
         {
 
         }

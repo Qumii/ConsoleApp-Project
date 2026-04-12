@@ -14,5 +14,6 @@ namespace ServiceLayer.Services.Interfaces
         void Delete(int id);
         CourseGroup Get(int id);
         List<CourseGroup> GetAll();
+        List<CourseGroup> SearchByGroupName(string name);
     }
 }

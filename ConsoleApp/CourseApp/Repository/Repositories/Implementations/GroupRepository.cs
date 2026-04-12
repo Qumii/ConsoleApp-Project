@@ -38,9 +38,31 @@ namespace RepositoryLayer.Repositories.Implementations
 
         }
 
+
+
         public void Update(CourseGroup data)
         {
-            throw new NotImplementedException();
+            CourseGroup dbGroup = Get(g  => g.Id == data.Id);
+
+            if (dbGroup==null) return;
+
+            if (!string.IsNullOrEmpty(data.Name))
+            {
+                dbGroup.Name = data.Name;
+            }
+            if (!string.IsNullOrEmpty(data.Teacher))
+            {
+                dbGroup.Teacher = data.Teacher;
+            }
+
+            if (data.Room > 0)
+            {
+                dbGroup.Room = data.Room; 
+            }
+            
         }
+
+
+
     }
 }
