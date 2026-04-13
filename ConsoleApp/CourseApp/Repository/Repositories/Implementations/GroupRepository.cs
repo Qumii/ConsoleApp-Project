@@ -2,6 +2,7 @@
 using RepositoryLayer.Data;
 using RepositoryLayer.Exceptions;
 using RepositoryLayer.Repositories.Interfaces;
+using System.Text.RegularExpressions;
 
 namespace RepositoryLayer.Repositories.Implementations
 {
@@ -17,7 +18,7 @@ namespace RepositoryLayer.Repositories.Implementations
             catch (Exception ex)
             {
 
-                Console.WriteLine(ex.Message); 
+                Console.WriteLine(ex.Message);
             }
         }
 
@@ -38,13 +39,11 @@ namespace RepositoryLayer.Repositories.Implementations
 
         }
 
-
-
         public void Update(CourseGroup data)
         {
-            CourseGroup dbGroup = Get(g  => g.Id == data.Id);
+            CourseGroup dbGroup = Get(g => g.Id == data.Id);
 
-            if (dbGroup==null) return;
+            if (dbGroup == null) return;
 
             if (!string.IsNullOrEmpty(data.Name))
             {
@@ -57,10 +56,20 @@ namespace RepositoryLayer.Repositories.Implementations
 
             if (data.Room > 0)
             {
-                dbGroup.Room = data.Room; 
+                dbGroup.Room = data.Room;
             }
-            
+
         }
+
+        public List<CourseGroup> Search(string searchText)
+        {
+            if (string.IsNullOrWhiteSpace(searchText))
+                return new List<CourseGroup>();
+
+            return AppDbContext<CourseGroup>.datas
+                .FindAll(g => g.Name != null && g.Name.ToLower().Contains(searchText.ToLower()));
+        }
+
 
 
 

@@ -1,4 +1,5 @@
 ﻿using DomainLayer.Entities;
+using RepositoryLayer.Data;
 using RepositoryLayer.Exceptions;
 using RepositoryLayer.Repositories.Interfaces;
 
@@ -14,6 +15,7 @@ namespace RepositoryLayer.Repositories.Implementations
                 if (data is null)
                 {
                     throw new NotFoundException("Student not found");
+
                 }
             }
             catch (Exception ex)
@@ -25,22 +27,54 @@ namespace RepositoryLayer.Repositories.Implementations
 
         public void Delete(Student data)
         {
-            throw new NotImplementedException();
+            AppDbContext<Student>.datas.Remove(data);
         }
 
         public Student Get(Predicate<Student> predicate)
         {
-            throw new NotImplementedException();
+            return predicate != null ? AppDbContext<Student>.datas.Find(predicate) : null;
         }
 
         public List<Student> GetAll(Predicate<Student> predicate)
         {
+            return predicate != null ? AppDbContext<Student>.datas.FindAll(predicate) : AppDbContext<Student>.datas;
+
+        }
+
+        public List<Student> GetAll()
+        {
             throw new NotImplementedException();
+        }
+
+        public List<Student> Search(string searchText)
+        {
+            if (string.IsNullOrWhiteSpace(searchText))
+                return new List<Student>();
+
+            return AppDbContext<Student>.datas
+                  .FindAll(s =>
+            (!string.IsNullOrEmpty(s.Name) && s.Name.Trim().ToLower() == searchText.Trim().ToLower()) ||
+            (!string.IsNullOrEmpty(s.Surname) && s.Surname.Trim().ToLower() == searchText.Trim().ToLower())
+        );
         }
 
         public void Update(Student data)
         {
-            throw new NotImplementedException();
+            Student dbStudent = Get(s => s.Id == data.Id);
+
+            if (dbStudent == null) return;
+
+            if (!string.IsNullOrEmpty(data.Name))
+                dbStudent.Name = data.Name;
+
+            if (!string.IsNullOrEmpty(data.Surname))
+                dbStudent.Surname = data.Surname;
+
+            if (data.Age > 0)
+                dbStudent.Age = data.Age;
+
+            if (data.Group != null)
+                dbStudent.Group = data.Group;
         }
     }
 }

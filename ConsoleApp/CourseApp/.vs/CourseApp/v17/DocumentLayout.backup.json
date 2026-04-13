@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\servicelayer\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\servicelayer\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\servicelayer\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +39,28 @@
       "RelativeMoniker": "D:0:0:{D2843C5C-8A69-4994-AC64-A0E8AAA63EC2}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\helpers\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\helpers\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\domainlayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\consoleapp\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22456BB-D8CE-475D-B742-92DCEF300794}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\domainlayer\\entities\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4EB5214-CF6D-4B38-8F88-F73E72E38025}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|solutionrelative:repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19A7CB2B-3028-4149-97BA-9DDA635AA6F7}|Repository\\RepositoryLayer.csproj|c:\\users\\ulvee\\desktop\\consoleapp-project\\consoleapp\\courseapp\\repository\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,12 +83,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:44:20.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
               "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
               "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T13:29:19.157Z",
               "EditorCaption": ""
@@ -84,53 +109,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Repositories\\Implementations\\GroupRepository.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
-              "RelativeToolTip": "Repository\\Repositories\\Implementations\\GroupRepository.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "DomainLayer\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:00:10.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GroupController.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Controllers\\GroupController.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Controllers\\GroupController.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Controllers\\GroupController.cs",
-              "RelativeToolTip": "ConsoleApp\\Controllers\\GroupController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwOAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T13:57:02.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Repositories\\Implementations\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
-              "RelativeToolTip": "Repository\\Repositories\\Implementations\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:00:42.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
-              "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:40:56.597Z",
+              "WhenOpened": "2026-04-10T10:33:31.394Z",
               "EditorCaption": ""
             },
             {
@@ -141,47 +127,101 @@
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T11:53:20.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:00:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "ConsoleApp\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:57:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ConsoleApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:50:29.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\GroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:40:56.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IGroupService.cs",
               "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
               "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
               "RelativeToolTip": "ServiceLayer\\Services\\Interfaces\\IGroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T11:30:25.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Helpers\\Helper.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\Helpers\\Helper.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Helpers\\Helper.cs",
-              "RelativeToolTip": "ConsoleApp\\Helpers\\Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Helpers\\Menus.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Helpers\\Menus.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Helpers\\Menus.cs",
+              "RelativeToolTip": "ConsoleApp\\Helpers\\Menus.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T14:07:14.717Z"
+              "WhenOpened": "2026-04-12T21:57:36.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Repository\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "Repository\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Implementations\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Implementations\\GroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:10:09.793Z"
+              "WhenOpened": "2026-04-10T11:00:10.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -193,11 +233,49 @@
               "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T10:48:52.881Z"
+              "WhenOpened": "2026-04-10T10:48:52.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:32:01.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\ConsoleApp\\Helpers\\Helper.cs",
+              "RelativeToolTip": "ConsoleApp\\Helpers\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:07:14.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Repository\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Repository\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:10:09.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\Repository\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
@@ -209,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CourseGroup.cs",
               "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\CourseGroup.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Entities\\CourseGroup.cs",
@@ -218,30 +296,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T10:28:05.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "DomainLayer\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T10:33:31.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\ulvee\\Desktop\\ConsoleApp-Project\\ConsoleApp\\CourseApp\\DomainLayer\\Entities\\Student.cs",
-              "RelativeToolTip": "DomainLayer\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T10:32:01.273Z"
             }
           ]
         }

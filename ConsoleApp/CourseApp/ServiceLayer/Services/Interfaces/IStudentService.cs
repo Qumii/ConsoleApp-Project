@@ -10,5 +10,11 @@ namespace ServiceLayer.Services.Interfaces
     public interface IStudentService
     {
         Student Create(int groupId, Student student);
+        Student Update(int id, Student student);
+        void Delete(int id);
+        Student GetById(int id);
+        List<Student> GetByGroup(string groupName);
+        List<Student> GetAll();
+        List<Student> Search(string searchText);
     }
 }

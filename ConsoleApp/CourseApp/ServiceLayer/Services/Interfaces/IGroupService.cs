@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ServiceLayer.Services.Interfaces
@@ -12,8 +13,11 @@ namespace ServiceLayer.Services.Interfaces
         CourseGroup Create(CourseGroup group);
         CourseGroup Update(int id, CourseGroup group);
         void Delete(int id);
-        CourseGroup Get(int id);
+        CourseGroup GetById(int id);
         List<CourseGroup> GetAll();
+        List<CourseGroup> GetByTeacher(string teacher);
+        List<CourseGroup> GetByRoom(int room);
+
         List<CourseGroup> SearchByGroupName(string name);
     }
 }

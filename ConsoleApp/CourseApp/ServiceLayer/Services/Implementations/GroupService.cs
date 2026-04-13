@@ -56,17 +56,21 @@ namespace ServiceLayer.Services.Implementations
         }
 
 
-
-
-
-        public CourseGroup Get(int id)
-        {
-            throw new NotImplementedException();
-        }
-
         public List<CourseGroup> SearchByGroupName(string name )
         {
             return _groupRepository.GetAll(g => g.Name == name);
+        }
+
+        public List<CourseGroup> GetByTeacher(string teacher)
+        {
+            return _groupRepository.GetAll(g => g.Teacher.Trim().ToLower() == teacher.Trim().ToLower());
+
+        }
+
+        public List<CourseGroup> GetByRoom(int room)
+        {
+            return _groupRepository.GetAll(g => g.Room == room);
+
         }
     }
 }
