@@ -8,6 +8,7 @@ namespace RepositoryLayer.Repositories.Implementations
 {
     public class StudentRepository : IRepository<Student>
     {
+       
         public void Create(Student data)
         {
             try
@@ -17,6 +18,7 @@ namespace RepositoryLayer.Repositories.Implementations
                     throw new NotFoundException("Student not found");
 
                 }
+                AppDbContext<Student>.datas.Add(data);
             }
             catch (Exception ex)
             {
@@ -43,7 +45,7 @@ namespace RepositoryLayer.Repositories.Implementations
 
         public List<Student> GetAll()
         {
-            throw new NotImplementedException();
+            return AppDbContext<Student>.datas;
         }
 
         public List<Student> Search(string searchText)

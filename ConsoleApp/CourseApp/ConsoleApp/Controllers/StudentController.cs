@@ -110,6 +110,10 @@ namespace ConsoleApp.Controllers
                     {
                         studemtNewName = findStudent.Name;
                     }
+                    if (string.IsNullOrWhiteSpace(studentNewSurname))
+                    {
+                        studentNewSurname = findStudent.Surname;
+                    }
 
                     Student student = new Student { Name = studemtNewName, Surname = studentNewSurname, Age = age };
 
@@ -229,15 +233,21 @@ namespace ConsoleApp.Controllers
             var students = _studentService.GetAll();
             if (students == null || students.Count == 0)
             {
-                Helper.PrintConsole(ConsoleColor.Yellow, "No students found!");
+                Helper.PrintConsole(ConsoleColor.Red, "Student not found!");
                 return;
             }
-
-            foreach (var s in students)
+            else
             {
-                Helper.PrintConsole(ConsoleColor.Green,
-                    $"Id: {s.Id}, Name: {s.Name} {s.Surname}, Age: {s.Age}, Group: {s.Group?.Name}");
+
+                foreach (var s in students)
+                {
+                    Helper.PrintConsole(ConsoleColor.Green,
+                        $"Id: {s.Id}, Name: {s.Name} {s.Surname}, Age: {s.Age}, Group: {s.Group?.Name}");
+                }
+
             }
+
+            
         }
 
         public void GetAllStudentsByGroupId()
@@ -281,7 +291,7 @@ namespace ConsoleApp.Controllers
 
             foreach (var student in result)
             {
-                Helper.PrintConsole(ConsoleColor.Green, $"Id: {student.Id}, Group: {student.Group.Name}");
+                Helper.PrintConsole(ConsoleColor.Green, $"Id: {student.Id}, Group: {student.Group?.Name}");
 
             }
 
